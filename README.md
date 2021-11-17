@@ -2,10 +2,10 @@
 A CRUD users REST API using Python3 Flask 
 
 # Task
-- import Flask packages
-- using In-memories list approach for the CRUD operations
-- Used dummy users.json and downloaded from https://www.mockaroo.com/
-- Using Postman or an extension on VScode called Thunder client to test the REST API
+- Import Flask packages
+- Use In-memory list approach for REST API CRUD(GET,POST,PUT,DELETE) methods
+- Use dummy data from https://www.mockaroo.com/ for testing the API
+- Use Postman or an extension on VScode called Thunder client to test the REST API
 
 # Technologies
 - Python3
