@@ -22,7 +22,7 @@ A CRUD users REST API using Python3 Flask
 
 # Execute Flask & FastAPI
 - Flask
-  - python app.py / flask run
+  - python app.py or flask run
   locahost:5000/api
 
 - FastAPI
