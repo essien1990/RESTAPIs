@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 
 # initialise the DB URI
-app.config['SQLALCHEMY_DATABASE_URI']='postgresql://admin:admin@localhost:5432/cars'
+app.config['SQLALCHEMY_DATABASE_URI']='postgresql://username:password@host:port/databasename'
 #  Set the Modifications to False
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
