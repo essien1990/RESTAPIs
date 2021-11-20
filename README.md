@@ -37,8 +37,8 @@ A CRUD users REST API using Python3 Flask
 # Execute Flask & FastAPI
 - Flask
   - python app.py or flask run
-  locahost:5000/api
+  - locahost:5000/api
 
 - FastAPI
   - uvicorn main:app --reload
-  localhost:8000/api
+  - localhost:8000/api
