@@ -4,23 +4,34 @@ A CRUD users REST API using Python3 Flask
 # Task
 - Import Flask and FastAPI packages 
 - Use In-memory list approach for REST API CRUD(GET,POST,PUT,DELETE) methods
-- Create API using FastAPI by using a fake database using pydantic inheriting from BaseModel 
-- Create API using Flask and PostgreSQL database using SQLAlchemy ORM
+- Create API using FastAPI by creating a fake database using pydantic inheriting from BaseModel 
+- Create API using Flask and PostgreSQL database using SQLAlchemy ORM to have consistent data
 - Use dummy data from https://www.mockaroo.com/ for testing the API
 - Use Postman or an extension on VScode called Thunder client to test the REST API
 
 # Technologies
-- Python3
+- Programming Language
+  - Python3
+
+# Python Framework
 - Flask Framework
+- FastAPI Framework
+
+# Python Dependencies using pip
 - Flask-migrate
 - Flask-SQLAlchemy
 - Jsonify
-- FastAPI
 - Pydantic  
 - Request
 - Uvicorn server
 - json
-- Postman and Thunder Client
+
+# API Testing Tools
+- Postman
+- Thunder Client
+- Insomnia
+
+# Code Editor
 - VSCode
 
 # Execute Flask & FastAPI
