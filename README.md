@@ -7,8 +7,8 @@ A CRUD users REST API using Python3 Flask
 - Create Users API using FastAPI by creating a fake database using pydantic inheriting from BaseModel 
 - Create Cars API using Flask and PostgreSQL database using SQLAlchemy ORM to have consistent data
 - Create Users API using FastAPI Async SQL (Relational Database) using PostgreSQL database and SQLAlchemy ORM to have consistent data
-- Use dummy data from https://www.mockaroo.com/ for testing the API
-- Use Postman or an extension on VScode called Thunder client to test the REST API
+- Download dummy data from https://www.mockaroo.com/ for testing an API
+- Use Postman or an extension on VScode called Thunder client or swagger UI to test the REST API
 
 # Technologies
 - Programming Language
@@ -36,6 +36,7 @@ A CRUD users REST API using Python3 Flask
 - Postman
 - Thunder Client
 - Insomnia
+- Swagger UI
 
 # Code Editor
 - VSCode
