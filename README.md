@@ -1,5 +1,5 @@
 # RESTAPIs
-A CRUD users REST API using Python3 Flask 
+CRUD REST API using Python3, Flask, FastAPI and PostgreSQL database
 
 # Task
 - Import Flask and FastAPI packages 
