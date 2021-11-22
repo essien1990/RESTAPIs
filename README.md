@@ -5,7 +5,8 @@ A CRUD users REST API using Python3 Flask
 - Import Flask and FastAPI packages 
 - Use In-memory list approach for REST API CRUD(GET,POST,PUT,DELETE) methods
 - Create API using FastAPI by creating a fake database using pydantic inheriting from BaseModel 
-- Create API using Flask and PostgreSQL database using SQLAlchemy ORM to have consistent data
+- Create Car API using Flask and PostgreSQL database using SQLAlchemy ORM to have consistent data
+- Create Users API using FastAPI Async SQL (Relational Database) using PostgreSQL database and SQLAlchemy ORM to have consistent data
 - Use dummy data from https://www.mockaroo.com/ for testing the API
 - Use Postman or an extension on VScode called Thunder client to test the REST API
 
@@ -25,6 +26,11 @@ A CRUD users REST API using Python3 Flask
 - Request
 - Uvicorn server
 - json
+- passlib
+- uuid
+- databases
+- typing
+- bcrypt
 
 # API Testing Tools
 - Postman
