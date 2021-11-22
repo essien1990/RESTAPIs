@@ -9,7 +9,7 @@ from passlib.context import CryptContext
 password_context = CryptContext(schemes=['bcrypt'], deprecated='auto')
 
 # Postgres Database
-DATABASE_URL = 'postgresql://admin:admin@localhost:5432/users'
+DATABASE_URL = 'postgresql://username:password@hostname:password/database'
 
 database = databases.Database(DATABASE_URL)
 
